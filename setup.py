@@ -38,7 +38,7 @@ class Venv(setuptools.Command):
 
 setuptools.setup(
     name='hiss-themes',
-    version='0.0.1',
+    version='0.0.2',
     description="Themes for the hiss REPL",
     author="Loren Carvalho",
     author_email='me@loren.pizza',
