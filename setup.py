@@ -46,8 +46,8 @@ setuptools.setup(
     packages=setuptools.find_packages('src'),
     package_dir={'': 'src'},
     entry_points={
-        'hiss.themes': [
-            'tomorrow=hiss.themes.tomorrow:Tomorrow'
+        'pygments.styles': [
+            'tomorrow = hiss.themes.tomorrow:Tomorrow'
         ],
     },
     include_package_data=True,
