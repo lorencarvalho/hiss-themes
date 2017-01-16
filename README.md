@@ -22,6 +22,10 @@ $ cat ~/.hiss
 theme = tomorrow
 ```
 
+### want more themes?? 
+
+fork & pr! the possibilities are endless, just follow [the example](https://github.com/sixninetynine/hiss-themes/blob/master/src/hiss/themes/tomorrow.py) in this repo
+
 ---
 
 * Free software: MIT license
